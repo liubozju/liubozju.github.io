@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: liubo2017@gmail.com
 description: "博观而约取，厚积而薄发."
 keyword: "LB, LB Blog, 刘波的博客, LiuBo, 刘波, iOS, Apple, iPhone"
-url: "http://liubozju.github.io"          # your host, for absolute URL
+url: "https://liubozju.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liubozju/liubozju.github.io.git" # you code repository
 
@@ -60,8 +60,8 @@ kramdown:
 #Disqus（https://disqus.com/）
 #disqus_username: liubo
 
-Gitalk
-#gitalk:
+#Gitalk
+gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 117819f53789da6fbfb0                            #生成的clientID
   clientSecret: 7b844c182c25b5e699c6ed0856365494b9867ca2    #生成的clientSecret
